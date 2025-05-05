@@ -1,0 +1,15 @@
+{
+  "name": "public-zenn-docs",
+  "version": "1.0.0",
+  "description": "This is a public repository for publishing articles on Zenn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.159"
+  }
+}
